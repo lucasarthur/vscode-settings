@@ -1,0 +1,66 @@
+{
+  "window.commandCenter": false,
+  "window.openFoldersInNewWindow": "off",
+  "window.menuBarVisibility": "toggle",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.settings.editor": "json",
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.enabled": false,
+  "material-icon-theme.folders.theme": "specific",
+
+  "terminal.external.linuxExec": "tilix",
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.showExitAlert": false,
+
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+
+  "editor.hover.delay": 150,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.quickSuggestionsDelay": 5,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontWeight": "600",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.renderLineHighlight": "gutter",
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.multiCursorLimit": 100000,
+
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "disabled",
+
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0 }",
+
+  "calva.showCalvaSaysOnStart": false,
+  "calva.paredit.defaultKeyMap": "none",
+
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false
+  },
+
+  "haskell.manageHLS": "GHCup",
+
+  "redhat.telemetry.enabled": false,
+  "git.openRepositoryInParentFolders": "never"
+}

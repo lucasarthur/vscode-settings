@@ -1,0 +1,92 @@
+{
+  "extensions": [
+    {
+      "name": "C/C++",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Calva: Clojure & ClojureScript Interactive Programming",
+      "publisher": "Better Than Tomorrow"
+    },
+    {
+      "name": "Debugger for Java",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Dracula Official",
+      "publisher": "Dracula Theme"
+    },
+    {
+      "name": "EditorConfig for VS Code",
+      "publisher": "EditorConfig"
+    },
+    {
+      "name": "GitHub Copilot",
+      "publisher": "GitHub"
+    },
+    {
+      "name": "GitLens — Git supercharged",
+      "publisher": "GitKraken"
+    },
+    {
+      "name": "Gradle for Java",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Haskell",
+      "publisher": "Haskell"
+    },
+    {
+      "name": "Language Support for Java(TM) by Red Hat",
+      "publisher": "Red Hat"
+    },
+    {
+      "name": "Lombok Annotations Support for VS Code",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Material Icon Theme",
+      "publisher": "Philipp Kief"
+    },
+    {
+      "name": "Maven for Java",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Multiple cursor case preserve",
+      "publisher": "Cardinal90"
+    },
+    {
+      "name": "Regex Previewer",
+      "publisher": "Christof Marti"
+    },
+    {
+      "name": "Remote - SSH",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "Spring Boot Tools",
+      "publisher": "VMWare"
+    },
+    {
+      "name": "Test Runner for Java",
+      "publisher": "Microsoft"
+    },
+    {
+      "name": "TODO Highlight",
+      "publisher": "Wayou Liu"
+    },
+    {
+      "name": "Tools for Apache Kafka",
+      "publisher": "Jeppe Andersen"
+    },
+    {
+      "name": "XML",
+      "publisher": "Red Hat"
+    },
+    {
+      "name": "YAML",
+      "publisher": "Red Hat"
+    }
+  ]
+}
