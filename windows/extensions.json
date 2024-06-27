@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Dracula Official",
+    "publisher": "Dracula Theme"
+  },
+  {
+    "name": "GitHub Copilot",
+    "publisher": "GitHub"
+  },
+  {
+    "name": "GitLens — Git supercharged",
+    "publisher": "GitKraken"
+  },
+  {
+    "name": "Material Icon Theme",
+    "publisher": "Philipp Kief"
+  },
+  {
+    "name": "Multiple cursor case preserve",
+    "publisher": "Cardinal90"
+  },
+  {
+    "name": "Remote - SSH",
+    "publisher": "Microsoft"
+  },
+  {
+    "name": "XML",
+    "publisher": "Red Hat"
+  },
+  {
+    "name": "YAML",
+    "publisher": "Red Hat"
+  }
+]
